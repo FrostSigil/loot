@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/loot/master/"],
+    "options": {
+        "niceName": "Auto Loot"
+    },
+    "name": "auto-loot",
+    "description": "Auto loot module."
+}
